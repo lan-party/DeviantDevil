@@ -4,8 +4,7 @@ import time
 import random
 
 
-searchlist = ["nature", "space", "wallpaper", "future", "brushes", "tattoo", "abstract", "pixel art", "dinosaur", "neon", "tshirt", "mushroom",
-              "steampunk", "sticker", "scifi", "octopus", "psychedelic", "isometric", "jellyfish", "kawaii", "cyberpunk", "magic", "magick", "occult"]
+searchlist = ["nature", "space", "wallpaper", "abstract", "pixel art", "steampunk", "scifi", "cyberpunk"]
 
 # savestate.txt won't be created automatically
 # To start from the beginning of the search list, the contents of savestate.txt should be "0,1"
